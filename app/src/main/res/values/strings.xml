@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">app1_tik4</string>
+    <string name="player_1">player 1</string>
+    <string name="player_2">player 2</string>
+    <string name="t1">TODO</string>
+    <string name="lets_begin">Lets Begin!</string>
+    <string name="ts1">TODO</string>
+    <string name="textview">TextView</string>
+    <string name="button">Button</string>
+    <string name="again">New Game</string>
+    <string name="lets_go">Lets Go</string>
+</resources>
